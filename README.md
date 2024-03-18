@@ -1,6 +1,6 @@
 ## Olá! Eu sou Felipe Bulcão.
 
-- 📚 Hoje faço faculdade de análise e desenvolvimento de sistemas e curso na alura.
+- 📚 Hoje faço faculdade de análise e desenvolvimento de sistemas,e também o curso da alura.
 - 💻 Estudando html,css,javascript.  
 
  <div>
