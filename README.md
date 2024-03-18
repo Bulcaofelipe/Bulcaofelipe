@@ -1,7 +1,7 @@
 ## Olá! Eu sou Felipe Bulcão.
 
-- 🎒 Hoje faço faculdade de análise e desenvolvimento de sistemas e curso na alura.
-- 🌱 Estudando html,css,javascript.  
+- 📚 Hoje faço faculdade de análise e desenvolvimento de sistemas e curso na alura.
+- 💻 Estudando html,css,javascript.  
 
  <div>
    <a href="https://github.com/VASCO18">
